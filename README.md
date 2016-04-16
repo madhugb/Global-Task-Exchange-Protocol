@@ -76,6 +76,19 @@ It looks like git is already solving this :-)
 
 Actually it is like Email, anyone can assign you a task. However you can block or ignore the requests.
 
+
+### Use cases
+
+This can be useful in
+
+- Project management involving multiple organizations
+
+- Freelancers to work closely with the organization
+
+- Open source project development
+
+- Your bot can have a todo list too which you can assign from anywhere.
+
 ## The MIT License (MIT)
 
 See [License.md](https://github.com/madhugb/Global-Task-Exchange-Protocol/blob/master/License.md)
