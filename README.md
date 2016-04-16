@@ -78,7 +78,7 @@ Actually it is like Email, anyone can assign you a task. However you can block o
 
 ## The MIT License (MIT)
 
-See [License.md](https://github.com/madhugb/Global-Task-Exchange-Protocol/blob/master/LICENSE.md)
+See [License.md](https://github.com/madhugb/Global-Task-Exchange-Protocol/blob/master/License.md)
 
 ## Author
 
