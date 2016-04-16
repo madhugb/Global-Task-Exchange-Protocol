@@ -6,11 +6,12 @@ Task management systems are invariably creating one of many data silos. If we ta
 Now these task management solutions work beautifully inside a wall. It fails when the task is shared between 2 different entities.
 
 So, What if anyone is able to assign a task to anyone else, just like an e-mail system.
----
+
 
 ##Proposal
+---
 
-Here is what I am proposing. Every domain gets  set of TX records (like MX records). These indicates the server where the tasks are stored, and bunch of other settings.
+Here is what I am proposing. Every domain gets set of TXT records (Thanks to [epaulson](https://news.ycombinator.com/user?id=epaulson)). which indicates the server where the tasks are stored, and bunch of other settings.
 
 The hierarchy looks like this.
 
@@ -78,6 +79,7 @@ Actually it is like Email, anyone can assign you a task. However you can block o
 
 
 ### Use cases
+---
 
 This can be useful in
 
